@@ -1,4 +1,4 @@
-test-repo
-=========
+# Test-repo #
 
-Test repository for the "Data Scientist's Toolkit" course of the Coursera Data Science Specialization
+
+This is a Test repository for the "Data Scientist's Toolkit" course of the Coursera Data Science Specialization
